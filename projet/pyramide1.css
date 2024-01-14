@@ -1,0 +1,41 @@
+body{background-image:url("./desertt.jpg");
+     background-size:cover;}
+	 
+h1{color:white;
+   text-align:center;
+   font-family:courier;
+   font-size:45px;
+   position:relative;
+   top:20px;}
+   
+p+ul{color:white;
+  font-size:23px;
+  position:relative;
+  left:7px;
+  list-style-type:square;}
+  
+.c{display:inline-block;}
+ 
+.c1{background-image:url("./pyr1.jpeg");
+    background-size:cover;
+    border-radius:10px;
+    width:270px;
+	height:300px;
+	position:relative;
+    left:100px;}
+  
+.c2{background-image:url("./pyr2.jpeg");
+    background-size:cover;
+    border-radius:10px;
+    width:276px;
+	height:300px;
+	position:relative;
+    left:450px;}
+   
+object{  
+       width:500px;
+       height:500px;
+	   position:relative;
+       left:350px;
+       }
+	  
